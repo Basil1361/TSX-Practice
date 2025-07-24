@@ -1,6 +1,10 @@
+import User from "./Components/User"
+
 const App = () => {
   return (
-    <div>Test</div>
+    <div>
+      <User />
+    </div>
   )
 }
 
