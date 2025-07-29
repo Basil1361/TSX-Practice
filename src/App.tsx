@@ -1,9 +1,9 @@
-import User from "./Components/User"
+import User from "./Components/Basics/User"
 
 const App = () => {
   return (
     <div>
-      <User />
+      <User/>
     </div>
   )
 }
